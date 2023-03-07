@@ -1,0 +1,8 @@
+°Me montrer que tous vos commits sont signés et comment vous avez fait en sorte qu'ils le soient 
+°Présentation de vos templates d'issue + création d'une issue en direct en utilisant un template
+°Présentation de vos templates de MR + création d'une MR en direct en utilisant un template
+°Présentation de votre GitHub project + expliquer comment vous l'avez utilisé pour ce projet
+°Présentation de votre Readme, code of conduct et contributing
+°Présentation de votre Gitignore
+°Présentation de la liste de vos branches et explication de pourquoi ça respecte le gitflow
+°Présentation + démo du hooks qui fait tourner le linter js
