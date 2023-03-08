@@ -2,7 +2,7 @@
 
 ## Notre engagement
 
-En tant que contributeur ou utilisateur de ce projet, vous vous engagez à ne pas toucher a ce rojet
+En tant que contributeur ou utilisateur de ce projet, vous vous engagez à ne pas toucher a ce projet
 
 ## Comportements attendus
 
